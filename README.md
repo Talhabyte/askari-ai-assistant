@@ -1,7 +1,7 @@
 # Askari AI Assistant
 ## Preview
 
-![Askari AI Assistant](screenshots/Askari Ai Assistant.png)
+![Askari AI Assistant](screenshots/askari-ai-assistant.png)
 AI-powered banking assistant built with FastAPI and Gemini API, demonstrating prompt engineering, REST APIs, and intelligent query handling.
 
 ## Features
